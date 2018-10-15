@@ -2193,6 +2193,14 @@ input, select, textarea {
             vertical-align: middle;
         }
 
+        #header .lang {
+            position: absolute;
+            right: 10px;
+            top: 0px;
+            z-index: 2;
+            font-weight: 400;
+        }
+
         #header header {
             display: inline-block;
         }
