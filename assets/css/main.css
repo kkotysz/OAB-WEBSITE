@@ -1801,6 +1801,13 @@ input, select, textarea {
             margin: 0 0 4em 0;
         }
 
+        .image.half {
+            display: block;
+            width: 70%;
+            margin: 0 auto 2em auto;
+
+        }
+
         .image.left {
             float: left;
             margin: 0 2em 2em 0;
